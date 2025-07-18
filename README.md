@@ -1,1 +1,4 @@
 # OLAP-OPLTP
+
+
+Notes On OLAP vs OLTP
