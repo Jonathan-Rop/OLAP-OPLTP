@@ -1,4 +1,1 @@
-# OLAP-OPLTP
-
-
-Notes On OLAP vs OLTP
+# Prediction Model With Linear Regression
