@@ -14,3 +14,15 @@ Train a linear regression model
 Evaluate model performance using key metrics
 
 Make predictions and visualize results
+
+
+🔧 Technologies Used
+Python 3.9+
+
+Pandas
+
+NumPy
+
+Matplotlib / Seaborn
+
+Scikit-learn
